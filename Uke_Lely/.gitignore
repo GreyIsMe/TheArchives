@@ -1,0 +1,5 @@
+LOGIN_TOKEN
+*.json
+Music/**
+ffmpeg.exe
+deps/**
