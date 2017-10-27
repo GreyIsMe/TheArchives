@@ -1,0 +1,25 @@
+{
+  "name": "msg_buddy",
+  "version": "1.0.0",
+  "description": "A chat bot for the server Fun Messaging Lite  \r This bot will be developed on in the future.  \r Head Dev: Chronomly  \r Host: iiSkyii",
+  "main": "msg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmoreSoftware/MSG_Buddy.git"
+  },
+  "author": "Chronomly, iiSkyii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmoreSoftware/MSG_Buddy/issues"
+  },
+  "homepage": "https://github.com/SmoreSoftware/MSG_Buddy#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "common-tags": "^1.4.0",
+    "discord.js": "^11.1.0",
+    "ms": "^2.0.0"
+  }
+}

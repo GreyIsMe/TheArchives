@@ -1,0 +1,46 @@
+{
+    "commands": [
+        {
+            "name": "msg!afk",
+            "desc": "Sets your afk.\nFormat: `msg!afk (status)`"
+        },
+        {
+            "name": "msg!help",
+            "desc": "This message.\nFormat: `msg!help`"
+        },
+        {
+            "name": "@MSG_Revived#9420",
+            "desc": "Talk to the bot!\nFormat: `@MSG_Revived#9420 (Message)`"
+        },
+        {
+            "name": "msg!support",
+            "desc": "Gives you the bot's server link.\nFormat: `msg!support`"
+        },
+        {
+            "name": "msg!invite",
+            "desc": "Gives you the bot's invite.\nFormat: `msg!afk (status)`"
+        },
+        {
+            "name": "msg!ping",
+            "desc": "Checks your connection speed to the bot.\nFormat: `msg!ping`"
+        },
+        {
+            "name": "msg!avatar",
+            "desc": "Gets a link to your avatar./nFormat: `msg!avatar`\nPLANNED MAINTENENCE ON THIS COMMAND SOON"
+        },
+        {
+            "name": "msg!echo",
+            "desc": "Repeats a message back to you./nFormat: `msg!echo (message)`"
+        }
+    ],
+    "dev": [
+        {
+            "name": "msg!announce",
+            "desc": "**DEVELOPER ONLY**\nSends an announcement to the main server\nFormat: `msg!announce (announcement)`"
+        },
+        {
+            "name": "msg!eval",
+            "desc": "**DEVELOPER ONLY**\nRuns bot code.\nFormat: `msg!eval (code)`"
+        }
+    ]
+}
