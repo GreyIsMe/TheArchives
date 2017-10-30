@@ -1,0 +1,9 @@
+# Important Ignores
+config.json
+notes.json
+
+# Database Ignore
+*.sqlite3
+
+# Node Modules
+node_modules/**
